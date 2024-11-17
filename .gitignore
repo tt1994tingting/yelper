@@ -1,3 +1,11 @@
+# Data files
+*.json
+*.pdf
+
+# Model files
+*.npy
+*.pkl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -8,6 +16,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+venv/
 build/
 develop-eggs/
 dist/
