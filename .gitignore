@@ -2,10 +2,6 @@
 *.json
 *.pdf
 
-# Model files
-*.npy
-*.pkl
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
